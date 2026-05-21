@@ -1,0 +1,15 @@
+html,body {
+	margin: 0;
+	padding: 0;
+	background-image: url("images/4k-mountain.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: Arial;
+	height: 100%;
+	width: 100%;
+	font-size: 125%
+}
+h1 {
+	color: darkblue;
+}
