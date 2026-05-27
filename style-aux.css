@@ -1,6 +1,4 @@
 html,body {
-	margin: 50px;
-	padding: 50px;
 	background-image: url("images/4k-mountain.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -14,4 +12,7 @@ html,body {
 }
 h1 {
 	color: darkblue;
+}
+.textDiv {
+	padding: 40px
 }
