@@ -8,11 +8,9 @@ html,body {
 	font-family: Arial;
 	height: 100%;
 	width: 100%;
-	font-size: 125%
+	font-size: 125%;
+	text-align: center;
 }
 h1 {
 	color: darkblue;
-}
-.textDiv {
-	padding: 40px
 }
