@@ -3,13 +3,10 @@ html,body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	background-position: center top;
-	background-size: 100% auto;
 	font-family: Arial;
 	height: 100%;
 	width: 100%;
 	font-size: 125%;
-	text-align: center;
 }
 h1 {
 	color: darkblue;
