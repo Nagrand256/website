@@ -1,4 +1,6 @@
 html,body {
+	margin: 12 px;
+	padding: 0;
 	background-image: url("images/4k-mountain.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -8,7 +10,6 @@ html,body {
 	width: 100%;
 	font-size: 125%;
 	overflow-x: hidden;
-	overflow-y: auto;
 }
 h1 {
 	color: darkblue;
